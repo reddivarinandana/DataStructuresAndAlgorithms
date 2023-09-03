@@ -9,6 +9,7 @@ class RemoveDuplicates{
                     break;
                 }
             }
+            
             if(count == 0){
                 System.out.print(arr[i]+ " ");
             }
