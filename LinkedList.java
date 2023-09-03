@@ -2,6 +2,7 @@ class Node{
     int data;
     Node next;
 }
+
 class LinkedList{
     static Node previous = null;
     static Node current = null;
