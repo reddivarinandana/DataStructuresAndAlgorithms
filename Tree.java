@@ -3,6 +3,7 @@ class Node{
 	Node left;
 	Node right;	
 }
+
 public class Tree{
 	public static void inOrder(Node root){
 		if(root == null){
