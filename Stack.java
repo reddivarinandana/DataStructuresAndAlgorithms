@@ -2,6 +2,7 @@ class Node{
 	int data;
 	Node next;
 }
+
 class Stack{
 	static Node top = null;
 	public static Node push(int data){
