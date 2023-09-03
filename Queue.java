@@ -2,6 +2,7 @@ class Node{
 	int data;
 	Node next;
 }
+
 class Queue{
 	static Node first = null;
 	static Node last = null;
